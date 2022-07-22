@@ -34,6 +34,9 @@ def userLogout(request):
     logout(request)
     return redirect('index')
 
+
+    
+
 def createProfile(request):
     form = ProfileForm()
     if request.method == "POST":
