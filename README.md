@@ -1,1 +1,1 @@
-Django Project 9 May
+Django Project 9 May.
